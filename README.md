@@ -26,29 +26,17 @@ Technologies Used
 
 
 Frontend:
-
-
 HTML
-
-
 CSS
-
-
 JavaScript (React, Angular, or other frameworks as applicable)
 
 
 Backend:
-
-
 Node.js
-
-
 Express.js
 
 
 Database:
-
-
 MongoDB or MySQL
 
 
