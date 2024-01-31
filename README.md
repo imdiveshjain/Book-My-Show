@@ -7,11 +7,9 @@ BookMyShow is a web-based ticket booking platform implemented in JavaScript. The
 Project Description
 BookMyShow is designed to simplify the ticket booking process for users. It includes features such as browsing available movies and events, viewing showtimes, selecting seats, and completing the booking process. The project is implemented using JavaScript to ensure an interactive and dynamic user experience.
 
-**Features
-**
+Features
 
 Movie Listings: Browse a list of available movies, events, and shows.
-
 
 Showtimes: View showtimes for selected movies or events.
 
